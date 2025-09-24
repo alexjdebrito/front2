@@ -1,0 +1,25 @@
+Lista de Exercícios – Javascript
+
+As respostas devem ser postadas no github do aluno e disponibilizado o endereço do github no classroom, de forma IDENTIFICADA para cada quesito abaixo.
+
+1) Supondo que a população de um país A seja da ordem de 80000 habitantes com uma taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes com uma taxa anual de crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.
+
+2) Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números ímpares. Utilize obrigatoriamente a função prompt() para coletar os números.
+
+3) Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.
+
+4) Um funcionário de uma empresa recebe aumento salarial anualmente. 
+
+- Sabe-se que:Esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00;
+- Em 1996 recebeu aumento de 0,15% sobre seu salário inicial;
+- A partir de 1997 (inclusive), os aumentos salariais sempre correspondem ao dobro do percentual do ano anterior. Faça um programa que determine o salário atual desse funcionário. 
+- Após concluir isto, faça uma segunda versão do seu código que permita o usuário informar o salário inicial do funcionário. Utilize obrigatoriamente a função prompt() para coletar o salário inicial.
+
+5) Escreva uma função que encontre a área e o perímetro de um círculo, de acordo com o raio fornecido. Utilize obrigatoriamente a função prompt() para coletar o salário inicial.
+
+6) Escreva uma função que informe o retorno de um investimento (montante) com base nos valores do capital inicial, tempo em meses e taxa de juros mensal, fornecidos pelo usuário. Utilize obrigatoriamente a função prompt() para coletar os valores necessários.
+Use a fórmula: M = C * (1+i)tOnde:
+C = Capital inicial investido
+i = Taxa de juros, em percentual
+t = Tempo do investimento, em meses
+Exiba o resultado com duas casas decimais.
